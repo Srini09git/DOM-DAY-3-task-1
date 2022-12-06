@@ -1,0 +1,19 @@
+/* input{
+    width: 50%;
+} */
+body {
+    background-color: whitesmoke;
+}
+
+small {
+    font-style: italic;
+    font-size: small;
+}
+
+.container {
+    margin: 5% 15%;
+}
+
+/* .col-md-9{
+    padding-left: 100px;
+}  */
